@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NukeDependencyDemo", "NukeDependencyDemo\NukeDependencyDemo.csproj", "{336DCAF6-AD72-47C4-9902-072DD7744E55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{6686801D-6FBF-4D66-A890-1DE972E68239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6686801D-6FBF-4D66-A890-1DE972E68239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6686801D-6FBF-4D66-A890-1DE972E68239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336DCAF6-AD72-47C4-9902-072DD7744E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336DCAF6-AD72-47C4-9902-072DD7744E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336DCAF6-AD72-47C4-9902-072DD7744E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336DCAF6-AD72-47C4-9902-072DD7744E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
